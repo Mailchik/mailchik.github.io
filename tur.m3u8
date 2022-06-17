@@ -1,36 +1,40 @@
 #EXTM3U
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",KANAL D
-https://list.iptvcat.com/my_list/s/84a2830141a75a6543065b457c0857fc.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",ATV
-https://list.iptvcat.com/my_list/s/e20b4daec4db22efc913fdb3b1bc4d01.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",FOX TV
-https://list.iptvcat.com/my_list/s/7ce30a0694c5a6b5ba8821a8027c131a.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",STAR TV
-https://list.iptvcat.com/my_list/s/fd1ec2330d75eb5b815169cfa7aa8a54.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",SHOW TURK
-https://list.iptvcat.com/my_list/s/b90ca72562e8295d6e77c426f20ebeae.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",KANAL D HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/209443?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",ATV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/182711?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",FOX TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2585?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",STAR TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2104?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",SHOW TV HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2588?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",SHOW TURK HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/3344?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",SHOWMAX
-https://list.iptvcat.com/my_list/s/bda6cf3392f30e71ff8d06820397ca5e.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",SHOW TV
-https://list.iptvcat.com/my_list/s/ba39ad0c72fb35f7d971bde0483f9168.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT 1
-https://list.iptvcat.com/my_list/s/661c8f8452de5262181ff2ab9f22f149.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT COCUK
-https://list.iptvcat.com/my_list/s/e4f675bf18892dfc2caef633f25b1659.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT HABER
-https://list.iptvcat.com/my_list/s/dc2bc4b2d1edc6b9fd95936ca9484fab.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT MUZIK
-https://list.iptvcat.com/my_list/s/5689c65f60025cf1f229a4e99405bbb3.m3u8
+http://iptvmasterlink.dyndns.org:8080/ShowMax/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT 1 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/541?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT COCUK HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8618?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT HABER HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT MUZiK
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT TURK
-https://list.iptvcat.com/my_list/s/2bddc370da681fe6094feec231badcef.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT WORLD
-https://list.iptvcat.com/my_list/s/c81b9edd77a683787bab2ded017b6d7b.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",KANAL 7
-https://list.iptvcat.com/my_list/s/23c8a9e4de396b977a121adfce32bc84.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",A2
-https://list.iptvcat.com/my_list/s/91fce6c091fb9b390e6a1b45ca8be5a0.m3u8
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",A HABER
-https://list.iptvcat.com/my_list/s/4473de36e409a7dfd27f545d166ddd7c.m3u8
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/318?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",TRT WORLD HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/8463?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",KANAL 7 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/224?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",A2 HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/13902?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",A HABER HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/193771?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Cartoon Network
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",CNN TURK HD
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/128282?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",BEIN MOVIES ACTION 2
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/132708?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",BEIN MOVIES ACTION
@@ -47,13 +51,9 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/134195?checkedby:iptvcat.com
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2629?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",NATIONAL GEO WILD
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/2026?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",Cartoon Network
-http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",DISNEY JUNIOR
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/7959?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",MINIKA COCUK
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1868?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",MINIKA GO TV
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/1021?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Turkey",CNN
-https://list.iptvcat.com/my_list/s/3645eec9c489493efdc7342b6d33135a.m3u8
